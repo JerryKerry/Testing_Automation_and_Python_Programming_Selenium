@@ -1,0 +1,11 @@
+
+-----
+Тест: tests/test_authorization.py::test_authorization (call)
+Время начала выполнения теста: 2022-09-20 16:09:08.518748
+Выполнялся метод : authorization
+
+Время окончания теста: 2022-09-20 16:10:03.215413
+Выполнился : authorization
+URL: https://www.4glaza.ru/main.jsp?do=user-new4u
+
+-----
