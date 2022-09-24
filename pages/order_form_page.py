@@ -120,7 +120,7 @@ class order_form_page(Base):
 
     # Method
 
-    def Contact_Information(self):
+    def contact_information(self):
         self.input_select_stateCode()
         self.input_stateCode()
         self.input_city()

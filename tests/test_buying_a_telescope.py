@@ -27,7 +27,7 @@ def test_telescope_menu(driver):
     cp.click_cart_checkout()
 
     ofp = order_form_page(driver)
-    ofp.Contact_Information()
+    ofp.contact_information()
 
 
 
